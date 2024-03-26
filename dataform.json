@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "demo",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "peace-demo",
+  "defaultLocation": "US"
+}
+    

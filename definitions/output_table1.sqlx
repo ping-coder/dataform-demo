@@ -1,0 +1,6 @@
+config { type: "table" }
+
+SELECT * from ${ref("input_table")} 
+
+WHERE 
+    count > 10
